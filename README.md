@@ -11,5 +11,5 @@ Data is being managed with the help of MongoDB.
 ## Command to get started with Dynamic Website
 
 Install all the required packages as mentioned in package.json\
-Enter command\
+Enter command
 ### npm run dev
